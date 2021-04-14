@@ -8,8 +8,7 @@ I kept getting an error return as - *invalid/missing nonce* despite having what 
 
 The API documentation is at: https://www.coinspot.com.au/api
 
-**My Balances.json**
-- https://www.coinspot.com.au/api#romybalances 	
+**Read Only API Requests.json**
+- https://www.coinspot.com.au/api
 - you need to replace the API Key in the inject node, and the secret (from the coinspot API page when you created it) into the HMAC
- - the first API request setup
- - could probably be optimised (please re-upload or let me know if you can).
+ - slightly more optimised - only 5 nodes as the subflow.
