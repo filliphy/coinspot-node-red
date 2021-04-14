@@ -1,3 +1,4 @@
+
 # coinspot-node-red
 Various Flows for Coinspot API interaction via node-red
 
@@ -12,3 +13,6 @@ The API documentation is at: https://www.coinspot.com.au/api
 - https://www.coinspot.com.au/api
 - you need to replace the API Key in the inject node, and the secret (from the coinspot API page when you created it) into the HMAC
  - slightly more optimised - only 5 nodes as the subflow.
+
+**Let me know if you use it**
+[Email](mailto:%20al.dyne+github@gmail.com)
